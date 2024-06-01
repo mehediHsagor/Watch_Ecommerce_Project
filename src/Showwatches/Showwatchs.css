@@ -1,0 +1,42 @@
+.opop{
+margin: 10px;
+
+
+}
+.brand{
+
+    color: rgb(15, 62, 220);
+    font-size: 25px;
+    margin: 10px;
+}
+.img{
+
+    height: 300px;
+   
+    background-size: cover;
+    padding: 20px;
+
+}
+.card-title {
+
+    font-size: 35px;
+    color: rgb(186, 252, 4);
+    margin: 10px;
+}
+.bootn{
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.card{
+
+    background-color: rgb(246, 242, 235);
+}
+.prices{
+
+    color: rgb(251, 138, 57);
+ font-size: 25px;
+ margin: 10px;
+}

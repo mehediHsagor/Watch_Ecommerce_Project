@@ -1,0 +1,29 @@
+
+
+ul{
+    list-style: none;
+  }
+  .footer{
+    background-color: #24262b;
+    
+      justify-content:center;
+     
+  }
+  .copy{
+  
+    margin-top: 100px;
+  }
+  .mmmmmmm {
+  display: flex;
+  width: 800px;
+  justify-content: center;
+  margin: 100px;
+  padding: 50px;
+  
+  }
+  .social-links{
+  
+    display: flex;
+    margin: 5px;
+    margin-left: 10px;
+  }

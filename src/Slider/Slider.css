@@ -1,0 +1,9 @@
+.room{
+
+    height: 600px;
+  width: 100%;
+background-size: cover;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}

@@ -1,0 +1,273 @@
+[
+    {
+      "id": 1,
+      "name": "Classic Quartz Watch",
+      "brand": "Timex",
+      "made_in": "Switzerland",
+      "price": 150,
+      "company_name": "Timex Group",
+      "image_url": " https://images-cdn.ubuy.co.in/633aeb3771671232a7355088-ubuy-online-shopping.jpg "
+    },
+    {
+      "id": 2,
+      "name": "Sporty Digital Watch",
+      "brand": "Casio",
+      "made_in": "Japan",
+      "price": 80,
+      "company_name": "Casio Computer Co., Ltd.",
+      "image_url": " https://m.media-amazon.com/images/I/61i9YzF3fsL._AC_UY1000_.jpg "
+    },
+    {
+      "id": 3,
+      "name": "Elegant Automatic Watch",
+      "brand": "Rolex",
+      "made_in": "Switzerland",
+      "price": 5000,
+      "company_name": "Rolex SA",
+      "image_url": " https://content.thewosgroup.com/productimage/17350562/17350562_2.jpg?impolicy=hero&imwidth=700 "
+    },
+    {
+      "id": 4,
+      "name": "Luxury Chronograph Watch",
+      "brand": "Tag Heuer",
+      "made_in": "Switzerland",
+      "price": 3000,
+      "company_name": "TAG Heuer SA",
+      "image_url": " https://images.othoba.com/images/thumbs/0494456_curren-8392-men-quartz-wristwatches-fashion-luxury-chronograph-watches.jpeg "
+    },
+    {
+      "id": 5,
+      "name": "Smart Fitness Tracker Watch",
+      "brand": "Fitbit",
+      "made_in": "USA",
+      "price": 120,
+      "company_name": "Fitbit, Inc.",
+      "image_url": " https://images.othoba.com/images/thumbs/0505075_q25-bluetooth-call-men-smart-watch-with-body-temperature-full-touch-fitness-tracker-women-ip67-water.webp "
+    },
+    {
+      "id": 6,
+      "name": "Diver's Automatic Watch",
+      "brand": "Seiko",
+      "made_in": "Japan",
+      "price": 250,
+      "company_name": "Seiko Holdings Corporation",
+      "image_url": " https://m.media-amazon.com/images/I/61R4q6kErJS._AC_UY1000_.jpg "
+    },
+    {
+      "id": 7,
+      "name": "Fashionable Leather Strap Watch",
+      "brand": "Fossil",
+      "made_in": "China",
+      "price": 100,
+      "company_name": "Fossil Group, Inc.",
+      "image_url": " https://m.media-amazon.com/images/I/61+6GxknoaL._AC_UY1000_.jpg "
+    },
+    {
+      "id": 8,
+      "name": "Minimalist Design Watch",
+      "brand": "MVMT",
+      "made_in": "USA",
+      "price": 80,
+      "company_name": "MVMT Watches Inc.",
+      "image_url": " https://cdn.shopify.com/s/files/1/2046/1357/products/product-image-203715288_1024x1024@2x.jpg?v=1527253380 "
+    },
+    {
+      "id": 9,
+      "name": "Aviator Pilot Watch",
+      "brand": "Hamilton",
+      "made_in": "Switzerland",
+      "price": 600,
+      "company_name": "Hamilton Watch Company",
+      "image_url": " https://m.media-amazon.com/images/I/71ge1-VjTML._AC_UY1000_.jpg "
+    },
+    {
+      "id": 10,
+      "name": "Vintage Mechanical Watch",
+      "brand": "Orient",
+      "made_in": "Japan",
+      "price": 200,
+      "company_name": "Orient Watch Company",
+      "image_url": " https://5.imimg.com/data5/IOS/Default/2021/11/VC/IN/XK/50613516/product-jpeg-500x500.png "
+    },
+    {
+      "id": 11,
+      "name": "Stylish Ceramic Watch",
+      "brand": "Rado",
+      "made_in": "Switzerland",
+      "price": 1500,
+      "company_name": "Rado Watch Co. Ltd.",
+      "image_url": " https://5.imimg.com/data5/SELLER/Default/2020/12/CW/WF/XD/93318731/new-fashion-ceramic-women-s-watch.jpg "
+    },
+    {
+      "id": 12,
+      "name": "Rugged Outdoor Watch",
+      "brand": "Suunto",
+      "made_in": "Finland",
+      "price": 300,
+      "company_name": "Suunto Oy",
+      "image_url": " https://m.media-amazon.com/images/I/61VWdCnwz8L._AC_UF894,1000_QL80_.jpg "
+    },
+    {
+      "id": 13,
+      "name": "Digital Retro Watch",
+      "brand": "Casio",
+      "made_in": "Japan",
+      "price": 70,
+      "company_name": "Casio Computer Co., Ltd.",
+      "image_url": " https://i5.walmartimages.com/seo/Casio-Female-Adult-s-Digital-Gold-Retro-Casual-Sports-watch-LA670WGA-1-Daily-Alarm_c5e26c1a-cb8f-4a60-9ae4-e1564492ca08.90e0eebf8eaf4310bbc7e15b180027eb.jpeg "
+    },
+    {
+      "id": 14,
+      "name": "Tactical Military Watch",
+      "brand": "G-Shock",
+      "made_in": "Japan",
+      "price": 150,
+      "company_name": "Casio Computer Co., Ltd.",
+      "image_url": " https://images-cdn.ubuy.co.in/64e8c013238414006f5acb74-diditime-military-watches-for-men-north.jpg "
+    },
+    {
+      "id": 15,
+      "name": "Sleek Stainless Steel Watch",
+      "brand": "Bulova",
+      "made_in": "Switzerland",
+      "price": 400,
+      "company_name": "Citizen Watch Co. Ltd.",
+      "image_url": " https://m.media-amazon.com/images/I/61j4BQqfBCL._AC_UY1000_.jpg "
+    },
+    {
+      "id": 16,
+      "name": "Classic Gold Plated Watch",
+      "brand": "Guess",
+      "made_in": "Switzerland",
+      "price": 250,
+      "company_name": "Guess, Inc.",
+      "image_url": " https://www.burrells.co.uk/media/catalog/product/cache/a927f0e36fbef236bc45221e5b67550a/2/3/23-51-492_grey.jpg "
+    },
+    {
+      "id": 17,
+      "name": "Fashionable Rose Gold Watch",
+      "brand": "Michael Kors",
+      "made_in": "Switzerland",
+      "price": 300,
+      "company_name": "Capri Holdings Limited",
+      "image_url": " https://i.pinimg.com/736x/26/b4/a8/26b4a8b7d5094005f3617cffdccf5db4.jpg "
+    },
+    {
+      "id": 18,
+      "name": "Mechanical Skeleton Watch",
+      "brand": "Stührling",
+      "made_in": "Switzerland",
+      "price": 180,
+      "company_name": "Stührling Original",
+      "image_url": " https://i.ebayimg.com/images/g/-fsAAOSwUuhiN6m2/s-l500.jpg "
+    },
+    {
+      "id": 19,
+      "name": "Diamond-Encrusted Watch",
+      "brand": "Chopard",
+      "made_in": "Switzerland",
+      "price": 10000,
+      "company_name": "Chopard & Cie SA",
+      "image_url": " https://s.financesonline.com/uploads/2014/07/chanel.jpg "
+    },
+    {
+      "id": 20,
+      "name": "Solar-Powered Watch",
+      "brand": "Citizen",
+      "made_in": "Japan",
+      "price": 300,
+      "company_name": "Citizen Watch Co. Ltd.",
+      "image_url": " https://twobrokewatchsnobs.com/wp-content/uploads/2023/04/orient-neo-70s-chronograph-best-solar-watches-2048x1105.png.webp  "
+    },
+    {
+      "id": 21,
+      "name": "Automatic Moon Phase Watch",
+      "brand": "Longines",
+      "made_in": "Switzerland",
+      "price": 4000,
+      "company_name": "Compagnie des Montres Longines Frères SA",
+      "image_url": " https://i8.amplience.net/i/epsonemear/RE-AY0107N?$or-product-xlarge$&img404=missing_product&v=1 "
+    },
+{
+      "id": 22,
+      "name": "Retro Stainless Steel Watch",
+      "brand": "Tissot",
+      "made_in": "Switzerland",
+      "price": 350,
+      "company_name": "Tissot SA",
+      "image_url": " https://images-cdn.ubuy.co.in/650e18e426e6704c53559c61-casio-men-s-retro-digital-black.jpg "
+    },
+    {
+      "id": 23,
+      "name": "Fashionable Ceramic Watch",
+      "brand": "Emporio Armani",
+      "made_in": "Switzerland",
+      "price": 700,
+      "company_name": "Giorgio Armani S.p.A.",
+      "image_url": " https://olevswatches.com/wp-content/uploads/2023/06/OLEVS-Watch-5887-Ceramic-Fashionable-Business-Watch-BLACK-concentrate.jpg "
+    },
+    {
+      "id": 24,
+      "name": "Wooden Dial Watch",
+      "brand": "WeWood",
+      "made_in": "Italy",
+      "price": 120,
+      "company_name": "WeWOOD srl",
+      "image_url": " https://hodinkee-production.s3.amazonaws.com/uploads/images/15f0b3ec-efe3-467c-970c-e7f671b44ea6/ROLEX_DAYDATE_WOOD_GLD_WEB_1-2.jpg "
+    },
+    {
+      "id": 25,
+      "name": "Bold Oversized Watch",
+      "brand": "Nixon",
+      "made_in": "Switzerland",
+      "price": 200,
+      "company_name": "Nixon Inc.",
+      "image_url": " https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F07%2Fswatch-big-bold-irony-collection-release-info-001.jpg?cbr=1&q=90 "
+    },
+    {
+      "id": 26,
+      "name": "Minimalist Leather Strap Watch",
+      "brand": "Skagen",
+      "made_in": "Denmark",
+      "price": 120,
+      "company_name": "Skagen Designs, Ltd.",
+      "image_url": " https://m.media-amazon.com/images/I/61HNQfAFsAL._AC_UY1000_DpWeblab_.jpg "
+    },
+    {
+      "id": 27,
+      "name": "Sophisticated Gold Watch",
+      "brand": "Breguet",
+      "made_in": "Switzerland",
+      "price": 20000,
+      "company_name": "Montres Breguet SA",
+      "image_url": " https://image.doba.com/dg7-kyvShOjKwCbR/vintage-quartz-watch-rhinestones-large-dial-steel-band-watch-fancy-women-watches-jewelry-sophisticated-and-stylish-ladies-watch.webp "
+    },
+    {
+      "id": 28,
+      "name": "Glamorous Diamond Watch",
+      "brand": "Piaget",
+      "made_in": "Switzerland",
+      "price": 25000,
+      "company_name": "Piaget SA",
+      "image_url": " https://i.ebayimg.com/images/g/FNEAAOSwnSxi8fAR/s-l1200.webp "
+    },
+    {
+      "id": 29,
+      "name": "Modern Smartwatch",
+      "brand": "Samsung",
+      "made_in": "South Korea",
+      "price": 350,
+      "company_name": "Samsung Electronics Co., Ltd.",
+      "image_url": " https://www.gizmochina.com/wp-content/uploads/2023/11/Mirage_ZL97_luxury_design_.2199.4_700x700.webp "
+    },
+    {
+      "id": 30,
+      "name": "Classic Leather Band Watch",
+      "brand": "Citizen",
+      "made_in": "Japan",
+      "price": 180,
+      "company_name": "Citizen Watch Co. Ltd.",
+      "image_url": " https://m.media-amazon.com/images/I/61HUhYoJSFL._AC_UL1500_.jpg "
+    }
+  ]
+
